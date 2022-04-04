@@ -20,9 +20,9 @@ I'm Mehmet, a passionate and curious Electrical & Electronics Engineer. My passi
 <h1 align="center">Hi, I'm Mehmet 👋</h1>
 <h3 align="center">⚡ A passionate and curious Electrical & Electronics Engineer ⚡</h3>
 
-- 💫 My passion for engineering lies with dreaming up ideas and making them come true with elegant interfaces
-- 💼 I had some good experiences in IT before
-- 👀 I’m currently looking for collaborations and job offers, especially on Embedded Systems and RD
+- 💫 My passion for engineering lies with dreaming up ideas and making them come true with elegant interfaces.
+- 💼 I had some good experiences in IT before.
+- 👀 I’m currently looking for collaborations and job offers, especially on Embedded Systems and RD.
 - 📫 You can reach me via **mehmett2693@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
