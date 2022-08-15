@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mehmet 👋</h1>
-<h3 align="center">⚡ A passionate and curious an EEE ⚡</h3>
+
+<h3>⚡ A passionate and curious an EEE ⚡</h3>
 
 - 💫 I had some good experiences in IT before.
 - 💼 I also worked on embedded systems and rd.
